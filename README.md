@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidWill1496
+- 👋 Hi, I’m David Galvis from Colombia, here as @DavidWill1496
 - 👀 I’m interested in learning all I can and improve in it
 - 🌱 I’m currently learning german and swedish, also Artificial Intelligence and Web development
 - 💞️ I’m looking to collaborate mixing software and development and my field of knowledge in Mechatronics (Signal Processing, Automation and Control)
